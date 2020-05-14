@@ -8,9 +8,11 @@ sidebar:
 
     # Profile information
     name: Radu Jica
-    tagline: (Big) Data Engineer
+    tagline: |
+      Software Engineer specializing in Big Data with a keen eye for optimizations,
+      analysis, and DevOps.
     # created with https://getavataaars.com/
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profilee.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: radu.jica+jobs@gmail.com
@@ -51,11 +53,11 @@ sidebar:
       - item: Martial Arts
         link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Software Engineer specializing in Big Data with a keen eye for optimizations,
-      analysis, and DevOps.
+# career-profile:
+#     title: Career Profile
+#     summary: |
+#       Software Engineer specializing in Big Data with a keen eye for optimizations,
+#       analysis, and DevOps.
 education:
     - degree: Joint MSc in Big Data Engineering
       university: VU Amsterdam & University of Amsterdam
